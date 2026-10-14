@@ -44,9 +44,6 @@ Final submission: 10 Dec 2026, 14:00
 
 TBC
 
-## Use of AI
-
-TBC
 
 ## Contribution Matrix
 
