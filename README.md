@@ -5,10 +5,10 @@ Group Project and In-class Demonstration
 
 ## Group
 
-| Name | GitHub | Role |
+| Name | student number  | Role |
 |---|---|---|
-| Shivam | shivam14534 | |
-| | | |
+| Shivam | 24004919 | SCRUM master|
+| Edward Main | |Project Manager  |
 | | | |
 | | | |
 
