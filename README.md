@@ -8,7 +8,7 @@ Group Project and In-class Demonstration
 | Name | student number  | Role |
 |---|---|---|
 | Shivam | 24004919 | SCRUM master|
-| Edward Main | |Project Manager  |
+| Edward Main | |Product Owner|
 | | | |
 | | | |
 
