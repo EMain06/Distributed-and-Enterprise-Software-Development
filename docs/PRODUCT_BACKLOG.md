@@ -12,6 +12,12 @@
 
 Goal: Strategic BPMN, identified and scoped functionalities, a product backlog and an active repo.
 
+| Week | Dates |Focus |
+|---|---|---|
+| 1 | 8 Oct - 15 Oct | Stakeholder analysis, set out roles for the current sprint, created the GitHub repo and Notion board |
+| 2 | 15 Oct - 22 Oct| Analysis of the case study and use cases (mostly assessment analysis) |
+| 3 | 22 Oct - 29 Oct| Went through each use case and decided, completed the strategic BPMN, identified the scope of the 2 major functionalities, and analysed major business processes and organisational responsibilities |
+
 ### Sprint 2 plan (29 Oct - 19 Nov 2026)
 
 Goal: Complete the i\* SD and SR models with two detailed operational BPMN models for both agreed major functionalities, with clear traceability between BPMN models and i\*. Complete an initial executable Camunda process with Camunda user tasks and forms.
@@ -19,8 +25,10 @@ Goal: Complete the i\* SD and SR models with two detailed operational BPMN model
 | Week | Dates | Focus |
 |---|---|---|
 | 1 | 29 Oct - 5 Nov | Confirm the two functionalities with the module team, finish the strategic BPMN, and complete the i\* models |
-| 2 | 5 Nov - 12 Nov | Complete the 2 detailed BPMN models and the traceability table; start the Camunda build in parallel (forms, validation service task, mock certification service) |
+| 2 | 5 Nov - 12 Nov | Complete the 2 detailed BPMN models and the traceability table; start the Camunda build in parallel (forms, initial service task implementation where appropriate: validation service task, mock certification service) |
 | 3 | 12 Nov - 19 Nov | Complete the executable Camunda process (gateways, process variables, business logic), run a consistency check across i\*, strategic BPMN, operational BPMN and Camunda, check repo history and rehearse the demo |
+
+**Throughout:** commit and push work regularly so GitHub shows continued iterative development from every member.
 
 **Sprint review:** 19 Nov
 
