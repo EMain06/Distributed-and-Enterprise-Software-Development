@@ -49,8 +49,8 @@ Priority: High / Medium / Low. Status: `[x]` done, `[ ]` open.
 | 5 | Use cases analysis | High | Eddie Main, Lonique Mayoua, Htet Oo Wai, Samuel St Clair, Shivam Puri | [x] |
 | 6 | Pick use case | High | Eddie Main, Lonique Mayoua, Htet Oo Wai, Samuel St Clair, Shivam Puri | [x] |
 | 7 | Strategic BPMN model created covering Use Case 1 | High | Lonique Mayoua | [x] |
-| 8 | Analysis of major business processes and organisational responsibilities | High | Htet Oo Wai, Samuel St Clair | [ ] |
-| 9 | Identification and scoping of the two candidate major functionalities | High | Shivam Puri, Eddie Main | [ ] |
+| 8 | Analysis of major business processes and organisational responsibilities | High | Htet Oo Wai, Samuel St Clair | [x] |
+| 9 | Identification and scoping of the two candidate major functionalities | High | Shivam Puri, Eddie Main | [x] |
 | 11 | Initial backlog and sprint plan | Medium | Eddie Main | [ ] |
 | 12 | Initial i\* model creation | High | Unassigned | [ ] |
 | 13 | Complete 2 detailed BPMN models | High | Unassigned | [ ] |
