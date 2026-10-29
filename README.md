@@ -7,10 +7,11 @@ Group Project and In-class Demonstration
 
 | Name | student number  | Role |
 |---|---|---|
+| Edward Main | 24009759 |Product Owner|
 | Shivam | 24004919 | SCRUM master|
-| Edward Main | |Product Owner|
-| | | |
-| | | |
+| Lonique Mayoua | 24027974 | BPMN Manager |
+| Samuel St Clair | 24022864 | TBD |
+| Htet Oo Wai | 24037079 | TBD |
 
 ## Project board
 
