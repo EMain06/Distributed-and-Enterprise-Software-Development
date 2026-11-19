@@ -38,9 +38,8 @@ Final submission: 10 Dec 2026, 14:00
 
 ## Major functionalities
 
-1. TBC (to be agreed with module team)
-2. TBC
-
+1. Listing and Verification Scope
+2. Inventory and Seasonal Availability Scope
 ## Setup
 
 TBC
