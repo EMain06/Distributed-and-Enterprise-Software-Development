@@ -4,7 +4,7 @@
 **Case study:** Bristol Regional Food Network - Digital Marketplace
 **Chosen use case:** Use Case 1 - Producer Product Listing and Inventory Management
  
-> Exported from the group's Notion board on 29 October 2026. Notion remains the working copy; update this file when the backlog changes.
+> Exported from the group's Notion board on 19/11/2026. Notion remains the working copy; update this file when the backlog changes.
  
 ## Sprint plans
  

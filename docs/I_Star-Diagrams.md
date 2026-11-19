@@ -1,6 +1,6 @@
 # I* SD/SR DIAGRAM
 
-![goalDiagram (2).svg](./Assests/SR_Diagram.svg)
+![goalDiagram (2).svg](./Assests/SD_Diagram.svg)
 
 customer depends on market place
 
