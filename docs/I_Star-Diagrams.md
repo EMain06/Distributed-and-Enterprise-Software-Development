@@ -44,6 +44,8 @@ Fast delivery (customer) and 48 hour lead time (producer) pull against each othe
 
 ![SR Diagram.svg](./Assests/SR_Diagram.svg)
 
-[I-star_SD_Diagram](./Assests/I-Star_SD.txt)
+[Pi-Star 2.0] Used
 
-[I-star_SR_Diagram](./Assests/I-Star_SR.txt)
+[I-star_SD_Diagram](./Assests/I_Star-SD-15.txt)
+
+[I-star_SR_Diagram](./Assests/I_Star-SR-14.txt)

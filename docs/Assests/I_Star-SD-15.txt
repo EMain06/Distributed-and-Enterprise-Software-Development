@@ -454,9 +454,9 @@
   "diagram": {
     "width": 2000,
     "height": 1400,
-    "name": "UC1 SD model - AI-generated reference draft (internal, not for submission)",
+    "name": "I-Star_SD",
     "customProperties": {
-      "Description": "AI-generated reference draft for internal group discussion only. Not for sprint submission. Tension: Customer 'Fast delivery' vs Producer '48 hour order lead time'."
+      "Description": "Final Model v1.5"
     }
   }
 }
