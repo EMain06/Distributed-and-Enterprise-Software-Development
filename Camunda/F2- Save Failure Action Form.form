@@ -1,0 +1,37 @@
+{
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.10.0",
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "19abde7"
+  },
+  "schemaVersion": 19,
+  "id": "Form_1suxsm8",
+  "components": [
+    {
+      "label": "What would you like to do?",
+      "values": [
+        {
+          "label": "Retry",
+          "value": "retry"
+        },
+        {
+          "label": "Cancel",
+          "value": "cancel"
+        }
+      ],
+      "type": "radio",
+      "layout": {
+        "row": "Row_1dpr32p",
+        "columns": null
+      },
+      "id": "Field_0xlwfd1",
+      "key": "saveAction",
+      "description": "The update was not saved. Choose whether to retry or cancel.",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default"
+}

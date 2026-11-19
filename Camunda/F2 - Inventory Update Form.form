@@ -1,0 +1,111 @@
+{
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.10.0",
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "19abde7"
+  },
+  "schemaVersion": 19,
+  "id": "Form_0kujifq",
+  "components": [
+    {
+      "text": "### Update Product Stock & Availability",
+      "type": "text",
+      "id": "Heading_stock_update",
+      "layout": {
+        "row": "row_heading",
+        "col": 16
+      }
+    },
+    {
+      "text": "##### Product Information",
+      "type": "text",
+      "id": "Subheading_product_info",
+      "layout": {
+        "row": "row_subheading_1",
+        "col": 16
+      }
+    },
+    {
+      "label": "Product ID",
+      "type": "textfield",
+      "id": "ProductId",
+      "key": "productId",
+      "description": "The unique identifier of the existing product.",
+      "validate": {
+        "required": true
+      },
+      "layout": {
+        "row": "row_product_inputs",
+        "col": 8
+      }
+    },
+    {
+      "label": "New Available Quantity",
+      "type": "number",
+      "id": "Quantity",
+      "key": "quantity",
+      "description": "The new total stock volume (0 indicates unavailable).",
+      "validate": {
+        "min": 0,
+        "required": true
+      },
+      "layout": {
+        "row": "row_product_inputs",
+        "col": 8
+      }
+    },
+    {
+      "text": "##### Seasonal Availability Dates",
+      "type": "text",
+      "id": "Subheading_dates",
+      "layout": {
+        "row": "row_subheading_2",
+        "col": 16
+      }
+    },
+    {
+      "subtype": "date",
+      "type": "datetime",
+      "id": "AvailabilityStart",
+      "key": "availabilityStart",
+      "dateLabel": "Availability Start Date",
+      "description": "The date when seasonal availability begins.",
+      "validate": {
+        "required": true
+      },
+      "layout": {
+        "row": "row_start_date",
+        "col": 16
+      }
+    },
+    {
+      "subtype": "date",
+      "type": "datetime",
+      "id": "AvailabilityEnd",
+      "key": "availabilityEnd",
+      "dateLabel": "Availability End Date",
+      "description": "Enter a date on or after the availability start date.i a",
+      "validate": {
+        "required": true
+      },
+      "layout": {
+        "row": "row_end_date",
+        "col": 16
+      },
+      "properties": { }
+    },
+    {
+      "label": "Submit update",
+      "action": "submit",
+      "type": "button",
+      "id": "Submit_button",
+      "layout": {
+        "row": "row_submit",
+        "col": 16
+      }
+    }
+  ],
+  "generated": true,
+  "type": "default"
+}
