@@ -1,0 +1,13 @@
+{
+  "executionPlatform": "Camunda Cloud",
+  "executionPlatformVersion": "8.10.0",
+  "exporter": {
+    "name": "Camunda Web Modeler",
+    "version": "ffa1f04"
+  },
+  "schemaVersion": 19,
+  "id": "Form_15ou42q",
+  "components": [],
+  "generated": true,
+  "type": "default"
+}
